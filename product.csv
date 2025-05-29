@@ -1,0 +1,11 @@
+product_id,name,category,price
+201,laptop,electronics,"50,000"
+202,t-shirt,clothing,"5,000"
+203,desk,furniture,"13,500"
+204,jeans,clothing,"7,500"
+205,smartphone,electronics,"30,000"
+206,chair,furniture,"8,000"
+207,Headphones,electronics,"5,500"
+208,jacket,clothing,"6,000"
+209,book shelf,furniture,"15,000"
+210,bt speaker,electronics,"10,000"
