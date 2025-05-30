@@ -8,8 +8,9 @@ This project simulates a retail data pipeline that combines Online Transaction P
 - `/oltp_schema/`: Contains the transactional schema
 - `/olap_schema/`: Contains the star schema
 - `/etl_scripts/`: SQL for ETL operations
-
 - `/analytical_queries/`: SQL queries for business analytics
+- `/Stores/, /customers/, /product/, /transaction/`: Contains the sample data
+- `/Monthly_Sales_Trends/, /Top_Selling_Products/`: Screenshots of the queries' output
 
 ## Steps
 1. Set up OLTP tables.
