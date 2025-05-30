@@ -27,6 +27,7 @@ Magu Rita - 668940 (@ritzy10)
 
 ## Reflection Questions
 1:Why OLTP is normalized vs OLAP is denormalized.
+
   OLTP is normalized for the purpose of optimizing fast, transactional operations. For example; the INSERT, DELETE operations. OLAP is denormalized because it is designed for complex analytical queries for example; aggregations.
 
 We also noticed that OLTP prioritizes data consistency for example, no duplicated customer records while OLAP prioritizes query speed.
