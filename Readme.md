@@ -19,11 +19,6 @@ This project simulates a retail data pipeline that combines Online Transaction P
 4. Run ETL to populate fact_sales.
 5. Execute analytical queries.
 
-## Author & Contributors
-Sevidzem Marilyn 669229(@marilynmaika) 
-Hetal Kumbharana -670207 (@HetalK4)
-Chad Mutinda -664884(@Chad-Mutinda)
-Magu Rita - 668940 (@ritzy10)
 
 ## Reflection Questions
 1:Why OLTP is normalized vs OLAP is denormalized.
@@ -31,6 +26,7 @@ Magu Rita - 668940 (@ritzy10)
   OLTP is normalized for the purpose of optimizing fast, transactional operations. For example; the INSERT, DELETE operations. OLAP is denormalized because it is designed for complex analytical queries for example; aggregations.
 
 We also noticed that OLTP prioritizes data consistency for example, no duplicated customer records while OLAP prioritizes query speed.
+
 
 2:Challenges of analytical queries on OLTP.
 
@@ -47,4 +43,11 @@ We also noticed that OLTP prioritizes data consistency for example, no duplicate
 5. We also believe that automation would significantly increase performance. This can be done by handling aggregation beforehand thus speeding up queries.
 
 
+## Author & Contributors
+Sevidzem Marilyn - 669229 (@marilynmaika) 
 
+Hetal Kumbharana - 670207 (@HetalK4)
+
+Chad Mutinda - 664884 (@Chad-Mutinda)
+
+Magu Rita - 668940 (@ritzy10)
